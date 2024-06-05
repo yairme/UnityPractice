@@ -1,0 +1,1 @@
+Documentation can be anything, from .txt files to .md even word doc.
